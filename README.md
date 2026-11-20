@@ -118,3 +118,27 @@ The most valuable part of this project was recognizing that a technically valid 
 ---
 
 *Exploratory portfolio project. Results describe this dataset and should not be generalized without further validation.*
+
+## Project Visualizations
+
+### 1. Customer Engagement Across Sales Segments
+![Sales and Engagement Comparison](figures/sales_engagement_comparison.png)
+
+### 2. Customer Spending and Revenue Contribution
+![Sales Customer Segments](figures/sales_customer_segments.png)
+
+### 3. Sales Clustering Evaluation
+![Sales Clustering Evaluation](figures/sales_cluster_evaluation.png)
+
+### 4. Engagement Clustering Evaluation
+![Engagement Clustering Evaluation](figures/engagement_cluster_evaluation.png)
+
+## Key Findings
+
+- **Engagement segmentation:** K-Means identified two well-separated customer groups (Silhouette Score: 0.769).
+- **Sales segmentation:** Four customer segments were identified (Silhouette Score: 0.349), indicating moderate-to-weak cluster separation.
+- **High-value customers:** The highest-spending segment averaged approximately $13,026 in total sales per customer.
+- **Revenue contribution:** Frequent Buyers generated the largest share of total revenue (31.13%).
+- **Cross-segmentation:** High-Ticket Buyers and High-Value Customers showed higher proportions of highly engaged customers (58.47% and 57.14%, respectively).
+
+These findings support a two-dimensional customer segmentation strategy that considers purchasing behavior and digital engagement separately.
