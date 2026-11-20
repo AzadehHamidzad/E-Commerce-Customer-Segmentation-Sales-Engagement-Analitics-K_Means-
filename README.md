@@ -95,7 +95,7 @@ Potential extensions include testing alternative clustering methods, incorporati
 └── figures/                 # Optional exported notebook charts
 ```
 
-> Replace the notebook filename above with the exact uploaded filename if it differs. The notebook and figures must be added separately; this README does not contain them.
+
 
 ## How to Run
 
@@ -132,6 +132,12 @@ The most valuable part of this project was recognizing that a technically valid 
 
 ### 4. Engagement Clustering Evaluation
 ![Engagement Clustering Evaluation](figures/engagement_cluster_evaluation.png)
+
+### 5. Customer Feature Correlations
+![Customer Feature Correlations](figures/customer_feature_correlations.png)
+
+### 6. Numerical Feature Distributions
+![Numerical Distributions](figures/numerical_distributions.png)
 
 ## Key Findings
 
